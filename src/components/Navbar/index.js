@@ -241,6 +241,7 @@ const Navbar = () => {
                                 <MobileButtonContainer isOpen={isOpen}>
                                     <MobileButton href="https://github.com/Saurabh1162" target="blank">Github</MobileButton>
                                     <MobileButton href="https://www.linkedin.com/in/saurabh-more-92011522b/" target="blank">LinkedIn</MobileButton>
+                                    <MobileButton href="https://drive.google.com/file/d/1nfp38J_3KgfzlrE5feAjPkIdB9RhjX72/view?usp=sharing"target="blank">Resume</MobileButton>
                                 </MobileButtonContainer>
                             </MobileMenu>
                         
