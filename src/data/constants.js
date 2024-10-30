@@ -275,7 +275,7 @@ export const projects = [
         "ReactJs"
       ],
       category: "web app",
-      github: "https://github.com/Saurabh1162/google",
+      github: "https://github.com/Saurabh1162/Harshali-Hotel",
       webapp: "https://harshali-hotel.vercel.app/",
     },
 
