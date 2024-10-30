@@ -263,11 +263,11 @@ export const education = [
 export const projects = [
     {
       id: 9,
-      title: "Custom Google Search",
+      title: "Hotel Website",
       description:
-        "Developed a custom Google Search application using HTML5, CSS3, JavaScript, ReactJS, and the Google Custom Search API to provide fficient search results.",
+        "Developed a complete front-end for the Harshali Hotel website using HTML, CSS, JavaScript, and ReactJS. Designed a user-friendly interface to showcase hotel amenities, room details, and nearby attractions, enhancing the guest experience through a responsive, visually appealing layout.",
       image:
-        "Google-logo.png",
+        "harshali-hotel-logo.png",
       tags: [
         "HTML5",
         "CSS3",
@@ -276,7 +276,7 @@ export const projects = [
       ],
       category: "web app",
       github: "https://github.com/Saurabh1162/google",
-      webapp: "https://kjcreddy666.github.io/google",
+      webapp: "https://harshali-hotel.vercel.app/",
     },
 
     {
@@ -285,7 +285,7 @@ export const projects = [
       description:
         "Explore my sleek portfolio, built with HTML5, CSS3, JavaScript, and React.js. Discover my skills and projects through seamless design and interactivity, optimized for any device.",
       image:
-        "portfolio-logo.png",
+        "saurabh-portfolio-logo.png",
       tags: [
         "HTML5",
         "CSS3",
@@ -293,17 +293,17 @@ export const projects = [
         "React",
       ],
       category: "web app",
-      github: "https://github.com/Saurabh1162/portfolio",
-      webapp: "#",
+      github: "https://github.com/Saurabh1162/frontend-developer-portfolio",
+      webapp: "https://saurabh-more-portfolio.vercel.app/",
     },
 
     {
       id: 9,
-      title: "Tic Tac Toe",
+      title: "Calculator",
       description:
-        "Implemented a classic Tic Tac Toe game using HTML5, CSS3, JavaScript and ReactJS.",
+        "Implemented a simple, basic Calculator website using HTML5, CSS3 and JavaScript",
       image:
-        "tictactoe-logo.png",
+        "calculator-logo.png",
       tags: [
         "HTML5",
         "CSS3",
@@ -311,42 +311,44 @@ export const projects = [
         "ReactJs"
       ],
       category: "web app",
-      github: "https://github.com/Saurabh1162/tictactoe",
-      webapp: "https://kjcreddy666.github.io/tictactoe",
+      github: "https://github.com/Saurabh1162/Calculator",
+      webapp: "https://calculator-chi-fawn-75.vercel.app/",
     },
 
     {
       id: 9,
-      title: "Simon-says",
+      title: "Countries API",
       description:
-        `"Simon Says" is an exciting web project designed to keep users hooked on a memory challenge.`,
+        "Developed a Countries Basic Info Website where I have implemented data using API and designed using HTML5, CSS3, JavaScript, and React.js,",
       image:
-        "simon-logo.png",
+        "countries-api-logo.png",
       tags: [
         "HTML5",
         "CSS3",
         "JavaScript",
+        "React",
+        "API Configuration"
       ],
       category: "web app",
-      github: "https://github.com/Saurabh1162/simon",
-      webapp: "https://kjcreddy666.github.io/portfolio",
+      github: "https://github.com/Saurabh1162/Countries_API_Proj",
+      webapp: "https://countries-api-proj.vercel.app/",
     },
 
-    {
-      id: 9,
-      title: "Spotify-clone",
-      description:
-        "This project is a Spotify clone, aiming to replicate the user interface of the popular music streaming service using HTML and CSS.The primary goal of this project is to practice front-end development skil",
-      image:
-        "spotify-logo.png",
-      tags: [
-        "HTML5",
-        "CSS3",
-      ],
-      category: "web app",
-      github: "https://github.com/Saurabh1162/spotify",
-      webapp: "https://kjcreddy666.github.io/spotify",
-    },
+    // {
+    //   id: 9,
+    //   title: "Spotify-clone",
+    //   description:
+    //     "This project is a Spotify clone, aiming to replicate the user interface of the popular music streaming service using HTML and CSS.The primary goal of this project is to practice front-end development skil",
+    //   image:
+    //     "spotify-logo.png",
+    //   tags: [
+    //     "HTML5",
+    //     "CSS3",
+    //   ],
+    //   category: "web app",
+    //   github: "https://github.com/Saurabh1162/spotify",
+    //   webapp: "https://kjcreddy666.github.io/spotify",
+    // },
 ];
   
 export const TimeLineData = [
