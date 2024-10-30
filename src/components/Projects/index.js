@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import {s} from "../../data/constants";
-import Card from "../Cards/Card";
+import {projects} from "../../data/constants";
+import ProjectCard from "../Cards/ProjectCard";
 
 const Container = styled.div`
 display: flex;
@@ -67,21 +67,21 @@ export const CardContainer = styled.div`
     // }
 `;
 
-const s = () => (
-    <Container id="s">
+const Projects = () => (
+    <Container id="projects">
         <Wrapper>
             <Title>
-                s
+                Projects
             </Title>
 
             <Description>
-                Here are some of my s.
+                Here are some of my Projects.
             </Description>
 
             <CardContainer>
                 {
-                    s.map(() => (
-                        <Card ={}/>
+                    projects.map((project) => (
+                        <ProjectCard project={project}/>
                     ))
                 }
             </CardContainer>
@@ -89,4 +89,4 @@ const s = () => (
     </Container>
 )
 
-export default s;
+export default Projects;
