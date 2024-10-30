@@ -110,7 +110,7 @@ const Avatar = styled.img`
 
 const ProjectCards = ({project}) => {
     const handleButtonClick = () => {
-        window.open(project.github, "_blank");
+        window.open(project.webapp, "_blank");
     }
     return (
         <Card >
